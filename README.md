@@ -1,2 +1,2 @@
 # vue_calculator
-calculator
+little calculator app
